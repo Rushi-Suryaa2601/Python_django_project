@@ -14,9 +14,8 @@ This project is simple To-Do list receipe webapp and also i add student informat
 
 #Output
 
-![5](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/79685fae-9de2-4036-84e7-cf9dab5d2389)
-![6](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/9af3ac80-bdc9-4337-b549-6341d0912077)
-![1](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/d9243993-4c8b-492a-98c1-99d61252e028)
-![2](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/8e395687-a898-4317-9f2e-fe85ce82d460)
-![3](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/d96e4288-7b75-4ab9-8a52-28bfa35895c9)
-![4](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/a160c9a0-655a-48ee-a13e-5eda6835da5c)
+![1](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/463ba497-cc72-4b70-982a-2bfa83068bcb)
+![2](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/790be62b-c935-49ca-839a-22542144df59)
+![3](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/dd7cf3ef-3d54-475e-a463-242ba04aa765)
+![4](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/9c41de6f-80a9-4fe9-aef2-3de37d584b09)
+![5](https://github.com/Rushi-Suryaa2601/Python_django_project/assets/151115201/bdabd480-ae4a-4dd6-b9c9-1b60b6627c00)
